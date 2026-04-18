@@ -1,0 +1,1 @@
+C:\Users\nico\desktop\so_raw_llm\target\debug\so_raw_llm.exe: C:\Users\nico\desktop\so_raw_llm\src\activation.rs C:\Users\nico\desktop\so_raw_llm\src\layer.rs C:\Users\nico\desktop\so_raw_llm\src\main.rs C:\Users\nico\desktop\so_raw_llm\src\matrix.rs
